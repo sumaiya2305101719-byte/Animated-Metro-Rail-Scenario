@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="openglLink/openglLink.vcxproj" Id="dc309eeb-3a1b-40b0-97e8-22b2c18a33f8" />
+</Solution>
